@@ -1,2 +1,3 @@
 # Java-Project
-First Litle Project of java
+First Java Project
+
